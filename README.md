@@ -54,3 +54,7 @@ This chart shows the survival rate by age group.
 This plot explores how socio-economic class and gender affected survival rates.
 
 ![Class vs Survival](Class_Sex_plot.png)
+
+🎯 Final Prediction Distribution
+This chart shows how many passengers the model predicted to survive vs. not survive in the test dataset.
+![Final Prediction Distribution](Predicitons_plot.png)
