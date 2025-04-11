@@ -48,7 +48,7 @@ Target column: Survived (1 = survived, 0 = did not)
 ### 👶 Age Category vs Survival
 This chart shows the survival rate by age group.
 
-![Age vs Survival](Age_Catg.png.png)
+![Age vs Survival](Age_Catg.png)
 
 ### 🛳️ Class & Sex vs Survival
 This plot explores how socio-economic class and gender affected survival rates.
