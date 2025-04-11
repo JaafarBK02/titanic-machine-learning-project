@@ -31,16 +31,7 @@ The Titanic dataset is one of the most famous beginner-friendly machine learning
 - `README.md` — this file
 
 ---
-
-## 📸 Sample Visuals
-
-If you've saved plots as `.png` files, you can show them here:
-
-```md
-![Survival by Age Category](img/age_category_plot.png)
-![Survival by Class & Sex](img/class_sex_plot.png)
-
-## 📌 Dataset Details (from Kaggle)
+##  📌 Dataset Details (from Kaggle)
 Train set: 891 passengers with survival labels
 
 Test set: 418 passengers to predict on
@@ -50,4 +41,13 @@ Features include:
 Name, Age, Sex, Pclass (ticket class), Fare, Embarked, etc.
 
 Target column: Survived (1 = survived, 0 = did not)
+
+
+## 📸 Sample Visuals
+
+If you've saved plots as `.png` files, you can show them here:
+
+```md
+![Survival by Age Category](img/age_category_plot.png)
+![Survival by Class & Sex](img/class_sex_plot.png)
 
