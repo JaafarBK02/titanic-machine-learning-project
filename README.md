@@ -43,11 +43,14 @@ Name, Age, Sex, Pclass (ticket class), Fare, Embarked, etc.
 Target column: Survived (1 = survived, 0 = did not)
 
 
-## 📸 Sample Visuals
+## 📊 Visualizations
 
-If you've saved plots as `.png` files, you can show them here:
+### 👶 Age Category vs Survival
+This chart shows the survival rate by age group.
 
-```md
-![Survival by Age Category](img/age_category_plot.png)
-![Survival by Class & Sex](img/class_sex_plot.png)
+![Age vs Survival](age_category_plot.png)
 
+### 🛳️ Class & Sex vs Survival
+This plot explores how socio-economic class and gender affected survival rates.
+
+![Class vs Survival](Class_Sex_plot.png)
