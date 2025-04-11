@@ -26,7 +26,7 @@ The Titanic dataset is one of the most famous beginner-friendly machine learning
 
 ## 📁 Files
 
-- `Titanic_LogisticRegression.ipynb` — main notebook
+- `TitanicProject.ipynb` — main notebook
 - `submission.csv` — final predictions file
 - `README.md` — this file
 
