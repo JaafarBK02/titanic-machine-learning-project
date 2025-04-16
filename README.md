@@ -64,7 +64,7 @@ This plot explores how socio-economic class and gender affected survival rates.
 
 ### 
 
-### 🎯 Final Prediction Distribution
+### Final Prediction Distribution
 This chart shows how many passengers the model predicted to survive vs. not survive in the test dataset.
 
 ![Final Prediction Distribution](Predictions.png)
