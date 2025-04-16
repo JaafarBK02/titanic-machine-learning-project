@@ -38,15 +38,16 @@ Target column: Survived (1 = survived, 0 = did not)
 
 ## Model Comparison 
 
-Model                            | Accuracy (Validation)
-Logistic Regression              | 0.7821%
-KNN                              | 0.6760%
-SVM                              | 0.6369%
-Decision Tree                    | 0.7877%
-Random Forest                    | 0.8045%
-Naive Bayes                      | 0.7598%
-MLP (Neural Network)             | 0.7709%
-XGBoost (Best)                   | 0.7989%
+Model / Accuracy (Validation)
+
+Logistic Regression: 0.7821%
+KNN: 0.6760%
+SVM: 0.6369%
+Decision Tree: 0.7877%
+Random Forest: 0.8045%
+Naive Bayes: 0.7598%
+MLP (Neural Network): 0.7709%
+XGBoost: 0.7989%
 
 
 ## 📊 Visualizations
