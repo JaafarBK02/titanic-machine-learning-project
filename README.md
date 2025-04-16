@@ -39,7 +39,6 @@ Target column: Survived (1 = survived, 0 = did not)
 ## Model Comparison 
 
 Model / Accuracy (Validation)
-
 Logistic Regression: 0.7821%
 KNN: 0.6760%
 SVM: 0.6369%
@@ -52,15 +51,18 @@ XGBoost: 0.7989%
 
 ## 📊 Visualizations
 
-### 👶 Age Category vs Survival
+### Age Category vs Survival
 This chart shows the survival rate by age group.
 
 ![Age vs Survival](Age_Catg.png)
 
-### 🛳️ Class & Sex vs Survival
+### Class & Sex vs Survival
 This plot explores how socio-economic class and gender affected survival rates.
 
 ![Class vs Survival](Class_Sex.png)
+
+
+### 
 
 ### 🎯 Final Prediction Distribution
 This chart shows how many passengers the model predicted to survive vs. not survive in the test dataset.
