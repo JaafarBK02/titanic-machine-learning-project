@@ -69,11 +69,12 @@ This plot explores how socio-economic class and gender affected survival rates.
 ### Final Prediction Distribution
 This chart shows how many passengers the model predicted to survive vs. not survive in the test dataset.
 
-![Final Prediction Distribution](Streamlit dash.pdf)
+![Final Prediction Distribution](Predictions.png)
 
 
 
 ### Titanic Dataset Classification Model Comparison Dashboard ( Streamlit ) 
 This Dashboard display the model comparison and performance results, providing an interactive way to visualize how each classification model performs on the Titanic dataset.
+You can find it in " treamlit dash.pdf " 
 
 
