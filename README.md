@@ -13,7 +13,11 @@ The Titanic dataset is one of the most famous beginner-friendly machine learning
 
 ## 🧠 What I Did
 
-I began by cleaning the dataset, handling missing values in the Age, Embarked, and Fare columns, and dropping the Cabin column due to excessive null values. Next, I performed feature engineering by creating a new categorical feature called Age_Catg to group passengers as Child, Adult, or Aged, and combined Pclass and Sex into a single feature called Class_Sex to capture the interaction between socio-economic status and gender. For exploratory data analysis, I visualized survival rates based on passenger class, age category, and gender to identify key patterns. I then trained and evaluated eight different classification models, comparing their accuracy on the validation set to identify the most effective approach. Finally, I used the best-performing model, Random Forest, to make predictions on the test dataset and visualized the distribution of survival predictions.
+I began by cleaning the dataset, handling missing values in the Age, Embarked, and Fare columns, and dropping the Cabin column due to excessive null values. Next, I performed feature engineering by creating a new categorical feature called Age_Catg to group passengers as Child, Adult, or Aged, and combined Pclass and Sex into a single feature called Class_Sex to capture the interaction between socio-economic status and gender. For exploratory data analysis, I visualized survival rates based on passenger class, age category, and gender to identify key patterns.
+
+I then trained and evaluated eight different classification models, comparing their accuracy on the validation set to identify the most effective approach. Finally, I used the best-performing model, Random Forest, to make predictions on the test dataset and visualized the distribution of survival predictions.
+
+I built a dashboard to display the model comparison and performance results, providing an interactive way to visualize how each classification model performs on the Titanic dataset.
 
 ---
 
@@ -62,9 +66,14 @@ This plot explores how socio-economic class and gender affected survival rates.
 ![Class vs Survival](Class_Sex.png)
 
 
-### 
-
 ### Final Prediction Distribution
 This chart shows how many passengers the model predicted to survive vs. not survive in the test dataset.
 
-![Final Prediction Distribution](Predictions.png)
+![Final Prediction Distribution](Streamlit dash.pdf)
+
+
+
+### Titanic Dataset Classification Model Comparison Dashboard ( Streamlit ) 
+This Dashboard display the model comparison and performance results, providing an interactive way to visualize how each classification model performs on the Titanic dataset.
+
+
