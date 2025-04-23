@@ -11,7 +11,7 @@ The Titanic dataset is one of the most famous beginner-friendly machine learning
 
 ---
 
-## 🧠 What I Did
+## What I Did
 
 I began by cleaning the dataset, handling missing values in the Age, Embarked, and Fare columns, and dropping the Cabin column due to excessive null values. Next, I performed feature engineering by creating a new categorical feature called Age_Catg to group passengers as Child, Adult, or Aged, and combined Pclass and Sex into a single feature called Class_Sex to capture the interaction between socio-economic status and gender. For exploratory data analysis, I visualized survival rates based on passenger class, age category, and gender to identify key patterns.
 
@@ -21,14 +21,14 @@ I built a dashboard to display the model comparison and performance results, pro
 
 ---
 
-## 📁 Files
+## Files
 
 - `TitanicProject.ipynb` — main notebook
 - `submission.csv` — final predictions file
 - `README.md` — this file
 
 ---
-##  📌 Dataset Details (from Kaggle)
+## Dataset Details (from Kaggle)
 Train set: 891 passengers with survival labels
 
 Test set: 418 passengers to predict on
@@ -53,7 +53,7 @@ MLP (Neural Network): 0.7709%
 XGBoost: 0.7989%
 
 
-## 📊 Visualizations
+## Visualizations
 
 ### Age Category vs Survival
 This chart shows the survival rate by age group.
