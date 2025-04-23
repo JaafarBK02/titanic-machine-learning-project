@@ -1,7 +1,7 @@
 # Titanic - Machine Learning from Disaster
 During this project, I built and compared various classification models to predict which passengers survived the Titanic disaster, starting with Logistic Regression and extending to advanced models like Random Forest.
 
-## 📊 Project Overview
+## Project Overview
 
 - **Goal**: Predict which passengers survived the Titanic disaster.
 - **Model Used**: Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Decision Tree, Random Forest, Naive Bayes, Multilayer Perceptron (MLP), XGBoost.
